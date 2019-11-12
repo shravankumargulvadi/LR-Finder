@@ -1,2 +1,3 @@
-# Assignment-11
-This Repository is for the contents of Assignment 11 of the EVA
+# LR Finder
+## EVA Assignment-11
+Used 'LR Finder' to ascertain an optimal Starting point for the learning rate
